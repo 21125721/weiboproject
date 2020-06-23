@@ -1,0 +1,51 @@
+{
+   	"code": 0,
+    "msg": "",
+    "count": 5,
+    "data":[
+    {
+			"id": 1001,
+			"username": "admin",
+			"vip_lev": "y",
+			"nickname": "呆呆Yun",
+			"pwd": "admin",
+			"email": "1939232720@qq.com",
+			"regist_time": "2019-10-22 09:17:42"
+		},
+		{
+			"id": 1002,
+			"username": "darkyun",
+			"vip_lev": "n",
+			"nickname": "DarkYun",
+			"pwd": "123456",
+			"email": "123@163.com",
+			"regist_time": "2019-10-23 15:29:21"
+		},
+		{
+			"id": 1003,
+			"username": "user",
+			"vip_lev": "y",
+			"nickname": "User",
+			"pwd": "user",
+			"email": "951818209@qq.com",
+			"regist_time": "2019-10-31 08:37:38"
+		},
+		{
+			"id": 1004,
+			"username": "yun",
+			"vip_lev": "y",
+			"nickname": "Yun",
+			"pwd": "123456",
+			"email": "yun.163.com",
+			"regist_time": "2019-11-06 16:29:03"
+		},
+		{
+			"id": 1005,
+			"username": "yun",
+			"vip_lev": "y",
+			"nickname": "Yun",
+			"pwd": "123456",
+			"email": "yun.163.com",
+			"regist_time": "2019-11-06 16:29:03"
+		}
+]}

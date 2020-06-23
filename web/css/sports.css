@@ -1,0 +1,30 @@
+.channel{
+	padding-top: 45px;
+	width: 90%;
+	height: 200px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.logo img{
+	widows: 60px;
+	height: 60px;
+	border: 2px solid #999999;
+	border-radius: 8px;
+	cursor: pointer;
+}
+
+.channelName{
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	font-size: 22px;
+	font-family: "幼圆";
+}
+
+
+.channel h2{
+	font-size: 1.2em;
+	font-family: 华文楷体;
+	margin-top: 10px;
+}

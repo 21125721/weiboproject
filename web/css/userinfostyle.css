@@ -1,0 +1,90 @@
+.nav{
+	width:100%;
+	height:60px;
+	background:#008ee1;
+}
+.nav_userinfo{
+	width:64%;
+	margin:0 auto;
+}
+.userinfo_a{
+	font-size:36px;
+	line-height: 60px;
+}
+.center_box{
+	width:58%;
+	margin:20px auto;
+	min-width:1055px;
+}
+.box_ul{
+	padding: 10px 0;
+}
+.box_ul li{
+	width:120px;
+	text-align:left;
+	margin:0 12px;
+	
+}
+.info_ul{
+	margin-left:40%;
+	margin-top:46px;
+}
+.info{
+	text-align: left;
+}
+.box_ul .li_summary:hover,.box_ul .li_title:hover{
+	background:#f2f4f5;
+	cursor: pointer;
+}
+.left_box{
+	width:14%;
+	background:white;
+	float:left;
+	box-shadow: 0 0 8px #cdcdcd;
+}
+.main_box{
+	margin:20px 20px;
+	box-shadow: 0 0 8px #cdcdcd;
+	padding:14px 10px;
+}
+.li_strong{
+	padding:1px 0 0 20px;
+	font-size: 14px;
+	color:#666666;
+}
+.li_title{
+	padding:0 0 0 20px;
+	font-size: 14px;
+	color:#666666;
+}
+.li_summary{
+	padding:0 0 0 45px;
+	font-size: 14px;
+	color:#666666;
+}
+.li_title a,.li_summary a{
+	line-height: 30px;
+}
+.main_user{
+	width:88px;
+	margin:0 auto;
+	
+}
+.main_userinfo{
+	margin-left:20px;
+	display: inline;
+	width:120px;
+	text-align: left;
+}
+.main_top ul li button{
+	width:110px;
+}
+
+
+
+
+
+
+
+
+

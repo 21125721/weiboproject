@@ -1,0 +1,76 @@
+.login{
+	width:246px;
+	right:16%;
+	position:absolute;
+	z-index:2;
+	background:rgba(255,255,255,1);
+	box-shadow: 0 0 8px #cdcdcd;
+	padding-bottom: 10px;
+}
+.login input{
+	width:204px;
+	font-size: 12px;
+}
+ul,li{margin:0;padding:0;list-style: none;}
+.login li{
+	text-align:center;
+	}
+#checkcode{
+	margin-bottom: 10px;
+	margin-left:2px;
+	width:145px;
+	display: inline-block;
+}
+#checkcodeimg{
+	width: 56px;
+	height:30px;
+}
+
+#username{
+	margin-top: 6px;
+	margin:0 auto;
+}
+#inputPassword,.btn-primary{
+	/*margin:10px auto;*/
+}
+#checkbox{
+	height:0;
+}
+.forgetpwd{
+	color:blue;
+}
+.login_linediv{
+	display: inline-block;
+	width:100px;
+	height:2px;
+	border-bottom:solid 2px gray;
+	margin:0;
+	padding:0;
+}
+.login_li{
+	cursor: pointer;
+}
+.nickname{
+	display: inline-block;
+}
+.infodiv{
+	position:absolute;
+	display: none;
+	width:140px;
+	height:100px;
+	background:white;
+	box-shadow:0 0 8px #cdcdcd;
+	z-index: 3;
+	left:90%;
+}
+
+.infodiv .down_up{
+	line-height: 60px;
+}
+.infodiv .down_down{
+	line-height: 20px;
+}
+
+a:hover{
+	color: white;
+}
